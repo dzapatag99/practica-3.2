@@ -1,0 +1,39 @@
+{
+    "empleados":[
+        {
+            "id": 1,
+            "name": "Juan Pedro",
+            "Telephone": 672206642,
+            "Speciality": "Programer",
+            "Department": "Sistems"
+        },
+        {
+            "id": 2,
+            "name": "Jhon Arryn",
+            "Telephone": 671284746,
+            "Speciality": "Designer",
+            "Department": "Designers"
+        },
+        {
+            "id": 3,
+            "name": "Arya Stark",
+            "Telephone": 612312947,
+            "Speciality": "morgue",
+            "Department": "Morguerator"
+        },
+        {
+            "id": 4,
+            "name": "Phantom",
+            "Telephone": 672342234,
+            "Speciality": "Warg",
+            "Department": "Auuuuuu"
+        },
+        {
+            "id": 5,
+            "name": "El mejor",
+            "Telephone": 6723432234,
+            "Speciality": "Orrocrux",
+            "Department": "Espeliermus"
+        }
+    ]
+}
